@@ -33,8 +33,7 @@
             }
         }
     }
-    echo $_SESSION['url_address'];
-    var_dump($connection);
+    $error = "Incorrect email or password";
 ?>
 
 <!DOCTYPE html>
